@@ -33,4 +33,4 @@ go build
 
 Add the folder path to your PATH
 
-Should run without issue
+DONE!
