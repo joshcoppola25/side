@@ -8,7 +8,7 @@ A CLI TOOL FOR EXTRACTING ID FROM SPOTIFY LINKS
 
 ## WHY?
 
-I have been doing a lot of work with the spotify api recently and a big chunk of that work has been testing API calls with the spotify developer console tool they have online.
+I have been doing a lot of work with the Spotify API recently and a big chunk of that work has been testing API calls with the Spotify developer console tool they have online.
 
 The issue with that is you need to manually put in song/artist/playlist/album ids.  Spotify used to have a feature where you could copy the ID directly but it seems like they removed that.
 
