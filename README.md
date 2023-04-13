@@ -16,7 +16,7 @@ Run the program with a link as an argument
 
 Ex. 
 
-```json
+```powershell
 side [https://open.spotify.com/playlist/2UGCEfh0BKsmWqBx74eN2V?si=964fa37853fb409e](https://open.spotify.com/playlist/2UGCEfh0BKsmWqBx74eN2V?si=964fa37853fb409e)
 $: ID is 2UGCEfh0BKsmWqBx74eN2V (It's copied to your clipboard)
 ```
@@ -27,7 +27,7 @@ Clone the repo to a directory of your choosing
 
 Run:
 
-```json
+```powershell
 go build
 ```
 
